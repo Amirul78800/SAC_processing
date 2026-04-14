@@ -31,6 +31,7 @@ The script is built to handle standard Impedance Tube exports.
 * MATLAB (utilizes modern functions like `readmatrix` and `sheetnames`).
 * The frequency column header must contain the exact string "Hz" for the automatic detection to work correctly.
 
-* Author: Amirul Azhajzul
-* Institution: USM
-* 2026
+## iNFO
+Author: Amirul Azhajzul
+Institution: USM
+2026
